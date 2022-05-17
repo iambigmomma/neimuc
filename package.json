@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
-  "description": "Casper for gatsby",
+  "name": "neimuc",
+  "description": "講講德國圈內人的想法",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Jeff Fan <jeff.fan@tumtics.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -20,7 +20,7 @@
     "date-fns": "2.28.0",
     "emotion": "11.0.0",
     "emotion-server": "11.0.0",
-    "gatsby": "4.7.2",
+    "gatsby": "^4.14.1",
     "gatsby-plugin-canonical-urls": "4.7.0",
     "gatsby-plugin-emotion": "7.7.0",
     "gatsby-plugin-feed": "4.7.0",
@@ -46,12 +46,12 @@
     "polished": "4.1.4",
     "postcss-color-function": "4.1.0",
     "prism-themes": "1.9.0",
-    "reading-time": "1.5.0",
-    "prismjs": "1.26.0",
+    "prismjs": "^1.28.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-emotion": "10.0.0",
     "react-helmet": "6.1.0",
+    "reading-time": "1.5.0",
     "rehype-react": "7.0.4"
   },
   "devDependencies": {

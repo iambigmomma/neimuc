@@ -132,7 +132,7 @@ const IndexPage: React.FC<IndexProps> = props => {
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+    logo: file(relativePath: { eq: "img/neimuc-logo.png" }) {
       childImageSharp {
         gatsbyImageData(layout: FIXED)
       }
