@@ -15,7 +15,7 @@ export const Footer: React.FC = () => (
         <Link to="/">{config.title}</Link> &copy; {new Date().getFullYear()}{' '}
         {config.footer && (
           <Link to="/">
-            | {config.title} {config.footer}
+            | {config.footer}
           </Link>
         )}
       </section>
@@ -33,11 +33,11 @@ export const Footer: React.FC = () => (
         )}
 
         <a
-          href="https://github.com/scttcper/gatsby-casper"
+          href="https://github.com/iambigmomma"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Casper
+          Github
         </a>
 
         <a href="/rss.xml">RSS</a>
