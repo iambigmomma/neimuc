@@ -195,7 +195,6 @@ export const pageQuery = graphql`
     authorYaml(name: { eq: $author }) {
       name
       website
-      twitter
       bio
       facebook
       location

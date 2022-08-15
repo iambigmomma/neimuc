@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Technical Breadth 技術廣度
+title: 'Technical Breadth 技術廣度'
 image: img/technical-breadth.jpeg
-author: [Ghost]
-date: 2018-09-30T07:03:47.149Z
-tags:
-  - Interview
-  - software engineering
+author: [Jeff Fan]
+date: '2021-08-27T07:03:47.149Z'
+tags: ['interview', 'software engineering', 'devops', 'cloud']
+draft: false
 ---
 
 （此篇主要以軟體工程相關的崗位為主）
